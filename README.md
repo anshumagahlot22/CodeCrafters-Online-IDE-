@@ -1,7 +1,7 @@
 # CodeCrafters (Online IDE)
 
 Welcome to CodeCrafters, the online Integrated Development Environment (IDE) designed to simplify coding and enhance your programming experience. 
-With CodeCrafters, you can write, compile, and run your code online, making it easier than ever to bring your ideas to life.
+With CodeCrafters, you can write, compile, and run your code online, making it easier than ever to bring your ideas to life and eliminating the need for complex local installations and setups.
 
 ## Features
 - CodeCrafters provides a user-friendly interface for coding in various programming languages.
